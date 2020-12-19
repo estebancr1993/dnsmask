@@ -1,6 +1,6 @@
 # INTRODUCIÓN
 
-![dnsmask]()
+![dnsmask](https://github.com/estebancr1993/dnsmask/blob/main/img/Dnsmasq.png)
 
 **Dnsmasq** proporciona un ***servidor DNS***, un ***servidor DHCP*** con soporte para DHCPv6 y PXE, y un ***servidor TFTP***. 
 Está diseñado para ser liviano y consumir poco, *adecuado para enrutadores y cortafuegos con recursos limitados*. 
