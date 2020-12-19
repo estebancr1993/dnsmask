@@ -13,3 +13,6 @@ mejorar las velocidades de búsqueda de DNS de los sitios visitados con anterior
 
 - PXE: es un entorno para arrancar e instalar el sistema operativo en computadoras a través de una red, de manera independiente de 
 los dispositivos de almacenamiento de datos disponibles (como discos duros) o de los sistemas operativos instalados.
+
+
+[ATRAS](https://github.com/estebancr1993/dnsmask/blob/main/README.md)
