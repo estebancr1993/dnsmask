@@ -12,5 +12,10 @@
 
 ## Referencias
 
+[web1](https://wiki.archlinux.org/index.php/Dnsmasq_(Español))
+
+[web2](https://juanjoselo.wordpress.com/2017/10/30/instalacion-y-configuracion-de-dnsmasq/)
+
+[video](https://www.youtube.com/watch?v=FJgJKp95lyE)
 
 ![licencia](https://github.com/estebancr1993/dnsmask/blob/main/img/Licencia-5.png)
