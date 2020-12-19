@@ -4,11 +4,11 @@
 
 # DNSMASK
 
-1. Introducción
+1. [Introducción](https://github.com/estebancr1993/dnsmask/blob/main/introducion.md)
 
-2. Instalación y configuración
+2. [Instalación y configuración](https://github.com/estebancr1993/dnsmask/blob/main/configuracion.md)
 
-3. Pruebas de funcionamiento
+3. [Pruebas de funcionamiento](https://github.com/estebancr1993/dnsmask/blob/main/pruebas.md)
 
 ## Referencias
 
