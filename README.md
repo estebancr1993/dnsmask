@@ -1,2 +1,1 @@
 # dnsmask
-Estudio de dnsmasq.
